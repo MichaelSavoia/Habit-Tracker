@@ -1,0 +1,8 @@
+{
+  "schemaPath": "api/habits/Habits.graphql",
+  "extensions": {
+    "endpoints": {
+      "dev": "http://localhost:3000/api/graphql"
+    }
+  }
+}
